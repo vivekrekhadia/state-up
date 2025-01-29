@@ -116,7 +116,7 @@ Contributions are welcome! Feel free to submit a Pull Request.
 
 ## Author
 
-[Your Name]
+Vivek Rekhadia
 
 ## Support
 
