@@ -1,6 +1,6 @@
 {
   "name": "state-up",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI tool to setup state management in React projects",
   "main": "dist/index.js",
   "bin": {
