@@ -31,7 +31,7 @@ async function installDependencies(packageManager: "npm" | "yarn" | "pnpm") {
   }
 }
 
-program.name("state-up").description("CLI to add state management to your React project").version("1.0.1");
+program.name("state-up").description("CLI to add state management to your React project").version("1.0.2");
 
 program
   .command("add")
